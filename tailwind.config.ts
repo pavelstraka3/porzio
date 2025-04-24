@@ -1,6 +1,6 @@
+import tailwindcss_animate from "tailwindcss-animate"
 import type { Config } from "tailwindcss"
 
-import tailwindcss_animate from "tailwindcss-animate";
 
 const config = {
   darkMode: false,
